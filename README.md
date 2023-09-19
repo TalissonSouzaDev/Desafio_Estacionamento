@@ -6,15 +6,15 @@ Neste Projeto de LAB fui desafiado a construir um sistema para um estacionamento
 
 ## Instalação
 
-📦 Instalação do pacote do Dotnet SKD
+📦 Instalação do pacote do Dotnet SDK
 
 ```bash
- 🔗 LINK: https://dotnet.microsoft.com/en-us/download
+ 🔗  https://dotnet.microsoft.com/en-us/download
 ```
-Instalação do pacote do VSCODE
+📦 Instalação do pacote do VSCODE
 
 ```bash
- 🔗 LINK: https://code.visualstudio.com/
+ 🔗 https://code.visualstudio.com/
 ```
     
 ## Comando Para Roda o Programa
