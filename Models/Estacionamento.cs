@@ -1,5 +1,4 @@
 using System.Globalization;
-
 namespace DesafioFundamentos.Models
 {
 
@@ -115,7 +114,7 @@ namespace DesafioFundamentos.Models
                 double Valor = this.preco_inical + (this.preco_hora * this.estacionado_horas);
                 // removendo
                 this._Veiculos?.Remove(this?.Placa);
-                Console.WriteLine($"Veiculo Removido do estacionamento com sucesso! 😀 o valor a ser pago foi de: R$ {Valor.ToString("C", CultureInfo.CurrentCulture)}");
+                Console.WriteLine($"Veiculo Removido do estacionamento com sucesso! 😀 o valor a ser pago foi de: {Valor:C}");
                 Console.ReadKey();
 
 
